@@ -1,7 +1,7 @@
 # Challenger - Ignite Lab ReactJs
 Projet: Event-plataform
 
-# Tools:
+# DevTools:
 - ReactJS
 - TailwindCss
 - ViteJs
