@@ -8,3 +8,4 @@ Projet: Event-plataform
 - GraphQL
 - GraphCMS
 - ApolloGraphQL
+- Phosphor Icons
