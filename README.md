@@ -9,3 +9,4 @@ Projet: Event-plataform
 - GraphCMS
 - ApolloGraphQL
 - Phosphor Icons
+- Date-FNS
