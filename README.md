@@ -3,6 +3,7 @@ Projet: Event-plataform
 
 # DevTools:
 - ReactJS
+- React Router
 - TailwindCss
 - ViteJs
 - GraphQL
