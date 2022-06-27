@@ -1,15 +1,4 @@
 # Challenger - Ignite Lab ReactJs
 Projet: Event-plataform
 
-# DevTools:
-- ReactJS
-- React Router
-- TailwindCss
-- ViteJs
-- GraphQL
-- GraphCMS
-- ApolloGraphQL
-- Phosphor Icons
-- Date-FNS
-
-https://repository-images.githubusercontent.com/507132972/7dce2b7a-591b-492b-9ae0-0a54db48d4b0
+![image](https://user-images.githubusercontent.com/11674833/176011219-75a03fcf-9752-409c-8bd1-999219b2920c.png)
